@@ -16,10 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          {/*Hello world */}
-          {/*Hello this is Ayush Here! */}
-          {/* Hello Buddy's Harshal Here */}
-          {/* Heyy ARYA SINGASANE Here */}
         </a>
       </header>
     </div>
