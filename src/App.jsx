@@ -3,8 +3,13 @@ import { HomePage } from './HomePage';
 
 function App() {
   return (
-    <div className="">
-      {/* All Components Should Be Render Through <HomePage/> Do not Interfere with App.jsx */}
+    <div className="basic">
+      {
+      
+      /* All Components Should Be Render Through <HomePage/> Do not Interfere with App.jsx */
+
+      }
+
       <HomePage/>
     </div>
   );
