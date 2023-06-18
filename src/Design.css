@@ -1,11 +1,14 @@
-/* .basic{
-    background-color: black;
-    color: white;
-    padding: 100px;
-    width: fit-content;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display&display=swap');
+*{
+    font-family: 'Noto Sans Display';
+
+}
+.mgm-footer{
+
     height: fit-content;
+    color: white;
 }
 
-.main{
-font-size: 500px;
-} */
+.crbox{
+    border: 2px dotted black;
+}
