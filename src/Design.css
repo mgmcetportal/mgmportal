@@ -10,5 +10,6 @@
 }
 
 .crbox{
-    border: 2px dotted black;
+    border: 2px dotted #FE9000;
+    border-radius: 20px;
 }
