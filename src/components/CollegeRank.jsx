@@ -4,7 +4,7 @@ export const CollegeRank = () => {
   return (
     <div className="crank bg-white pt-10">
       <div className="crank-title ">
-        <h1 className="text-center text-3xl font-extrabold text-[#094074] hover:text-yellow-600">Our Ranking</h1>
+        <h1 className="text-center text-3xl font-extrabold text-[#094074] hover:text-yellow-600  pb-5">Our Ranking</h1>
       </div>
       <div className="crank-render grid grid-cols-2">
         <div className="crank-item h-fit m-4 md:ml-64 ">
