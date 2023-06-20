@@ -3,7 +3,7 @@ export const Footer = () => {
   return (
     <>
     <div className=" mgm-footer bg-[#FE9000]">
-        <div className=" grid grid-cols-1 md:grid-cols-4">
+        <div className="grid grid-cols-1 md:grid-cols-4">
           <div className="useful-links p-4 flex justify-center py-5 md:flex md:justify-start border-b-2  border-[#094074] md:border-b-0">
             <ul>
             <h1 className="flex justify-center pb-5 text-3xl hover:text-blue-500 md:justify-start">Useful Links</h1>
@@ -29,7 +29,6 @@ export const Footer = () => {
               </ul>
           </div>
 
-        
           <div className="useful-links p-4 flex justify-center py-5 md:flex md:justify-start border-b-2  border-[#094074] md:border-b-0">
               <ul>
               <h1 className="flex justify-center pb-5 text-3xl hover:text-blue-500 md:justify-start">MGM's Group</h1>
@@ -44,7 +43,6 @@ export const Footer = () => {
               </ul>
           </div>
 
-          
           <div className="useful-links p-4 flex justify-center py-5 md:flex md:justify-start border-b-2  border-[#094074] md:border-b-0">
               <ul>
               <h1 className="flex justify-center pb-5 text-3xl hover:text-blue-500 md:justify-start">Contact Us</h1>
