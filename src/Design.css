@@ -13,3 +13,7 @@
     border: 2px dotted #FE9000;
     border-radius: 20px;
 }
+
+.white-image {
+    filter: invert(100%);
+  }
