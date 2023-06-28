@@ -22,7 +22,7 @@ export const CollegeRank = () => {
             <h1 className="text-center text-3xl pt-5 font-bold text-[#094074] ">#47</h1>
             <p className="text-center  pt-5 text-yellow-600 text-xs md:text-lg  "> MGM-CET is Ranked 47 in Top 100 Private Engineering Institutes </p>
             <div className="flex md:justify-center content-center ">
-                <img className="flex md:justify-center md:content-center pt-5  md:mt-5 " src="https://www.lpu.in/landing-pages/brand/images/The.jpg" alt=""/>
+                <img className="flex md:justify-center md:content-center md:pt-0 pt-4  md:mt-5 " src="https://www.lpu.in/landing-pages/brand/images/The.jpg" alt=""/>
             </div>
           </div>
         </div>
