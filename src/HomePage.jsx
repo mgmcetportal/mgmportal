@@ -3,16 +3,18 @@ import { CollegeRank } from './components/CollegeRank'
 import { Footer } from './components/Footer'
 import { Placement } from './components/Placement'
 import { Offer } from './components/Offer'
+import { FeedBack } from './components/FeedBack'
 // import { Slider } from './components/Slider'
 
 export const HomePage = () => {
   return (
     <div className="main">
       {/* <Slider/> */}
-      <Offer/>
+      {/* <Offer/>
       <CollegeRank/>
       <Placement/>
-      <Footer/>
+      <Footer/> */}
+      <FeedBack/>
     </div>
   )
 }
