@@ -23,7 +23,7 @@ export const Placement = () => {
     <div className="crank-title ">
         <h1 className="text-center pt-10 pb-5 text-3xl font-extrabold text-[#094074] hover:text-yellow-600">Top Recruiters</h1>
       </div>
-      <div className="mgm-placement md:ml-64 md:mr-64">
+      <div className="mgm-placement md:ml-36 md:mr-36">
         <div className="grid grid-cols-2 p-4 m-4 gap-1 border border-[#FE9000] rounded-xl md:grid-cols-4 md:mb-10 md:p-10 md:gap-10">
           <div className="img-1 h-56 p-4 md:h-[100%]">
             <img src={dell} alt="" />
