@@ -14,11 +14,11 @@ export const HomePage = () => {
     <div className="main">
       <Header/>
       <Slider/> 
-      {/* <Offer/>
+      <Offer/>
       <CollegeRank/>
       <Placement/>
       <VisionMission/>
-      <Footer/>  */}
+      <Footer/> 
       {/* <FeedBack/> */}
     </div>
   )
