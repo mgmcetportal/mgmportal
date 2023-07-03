@@ -6,16 +6,19 @@ import { Offer } from './components/Offer'
 // import { FeedBack } from './components/FeedBack'
 import { Slider } from './components/Slider'
 import { VisionMission } from './components/VisionMission'
+import Header from './components/Header'
+
 
 export const HomePage = () => {
   return (
     <div className="main">
+      <Header/>
       <Slider/> 
-      <Offer/>
+      {/* <Offer/>
       <CollegeRank/>
       <Placement/>
       <VisionMission/>
-      <Footer/> 
+      <Footer/>  */}
       {/* <FeedBack/> */}
     </div>
   )
