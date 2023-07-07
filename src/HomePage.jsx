@@ -7,11 +7,13 @@ import { Offer } from './components/Offer'
 import { Slider } from './components/Slider'
 import { VisionMission } from './components/VisionMission'
 import Header from './components/Header'
+import { HeaderBanner } from './components/HeaderBanner'
 
 
 export const HomePage = () => {
   return (
     <div className="main">
+      <HeaderBanner/>
       <Header/>
       <Slider/> 
       <Offer/>
