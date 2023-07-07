@@ -8,6 +8,7 @@ import { Slider } from './components/Slider'
 import { VisionMission } from './components/VisionMission'
 import Header from './components/Header'
 import { HeaderBanner } from './components/HeaderBanner'
+import TrusteeMessage from './pages/TrusteeMessage'
 
 
 export const HomePage = () => {
@@ -17,6 +18,7 @@ export const HomePage = () => {
       <Header/>
       <Slider/> 
       <Offer/>
+      <TrusteeMessage/>
       <CollegeRank/>
       <Placement/>
       <VisionMission/>
